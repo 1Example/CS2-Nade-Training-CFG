@@ -28,6 +28,6 @@ https://youtu.be/nw7jt16kTso
 
 | Key | Action |
 |-----|--------|
-| **Z** | Rethrow last grenade |
-| **X** | Clear grenades and their effects |
+| **Z** | Rethrow last nade |
+| **X** | Clear nades and their effects |
 | **ALT** | Noclip |
